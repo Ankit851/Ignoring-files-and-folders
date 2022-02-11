@@ -1,7 +1,7 @@
-!!a.txt
+a.txt
 !!secrets/
 secrets/*
 \!secrets/*.txt
-!*.py
+d.txt
 
 
